@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CommandCrafterx
 - 👀 I’m interested in Linux and Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Linux projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Arch btw
