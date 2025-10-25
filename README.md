@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CommandCrafterx
-- 👀 I’m interested in Linux and Coding
+- 👀 I’m interested in Operating System development and AI
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Linux projects
+- 💞️ I’m looking to collaborate on small Operating System Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Arch btw
 
